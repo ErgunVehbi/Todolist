@@ -1,0 +1,15 @@
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/bin/Debug/net8.0/Todolist
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/bin/Debug/net8.0/Todolist.deps.json
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/bin/Debug/net8.0/Todolist.runtimeconfig.json
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/bin/Debug/net8.0/Todolist.dll
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/bin/Debug/net8.0/Todolist.pdb
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.AssemblyInfoInputs.cache
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.AssemblyInfo.cs
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.csproj.CoreCompileInputs.cache
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.sourcelink.json
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.dll
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/refint/Todolist.dll
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.pdb
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/Todolist.genruntimeconfig.cache
+/Users/ergunvehbi/RiderProjects/Todolist/Todolist/obj/Debug/net8.0/ref/Todolist.dll
